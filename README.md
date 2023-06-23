@@ -25,4 +25,4 @@
  <br/>
  
 #### :pencil2: Study log
-https://periodic-museum-aaa.notion.site/82531c7bbc41437e9cafb238a709bfeb
+
